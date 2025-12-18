@@ -10,7 +10,7 @@ This is a **mentor-guided, time-bound, and publicly documented challenge** to en
 
 ---
 
-##  Objectives
+## Objectives
 
 - Build **strong foundations** in mathematics, statistics, and machine learning  
 - Develop **hands-on experience** through daily practice and projects  
@@ -28,12 +28,10 @@ This is a **mentor-guided, time-bound, and publicly documented challenge** to en
 
 ---
 
-## Repository Structure
-
 
 ---
 
-##  How to Navigate
+## How to Navigate
 
 - Each **week** contains 5–7 **daily folders**  
 - Each **day folder** documents:
@@ -48,10 +46,11 @@ This is a **mentor-guided, time-bound, and publicly documented challenge** to en
 
 Progress is tracked in two ways:  
 
-1. **PROGRESS.md** → High-level daily accountability  
-2. **week_n/day_n/README.md** → Detailed daily work, reflections, and experiments  
+1. **progress.json** → Raw daily progress  
+2. **progress-badge.json** → Used for the **Shields.io badge**  
+3. **week_n/day_n/README.md** → Detailed daily work, reflections, and experiments  
 
->  *Tip: Update `progress.json` daily; the badge will automatically reflect your progress via GitHub Actions.*
+> *Tip: Update `progress.json` daily; the badge automatically reflects your progress via `progress-badge.json`.*
 
 ---
 
@@ -80,4 +79,6 @@ Follow along, contribute, or get inspired!
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)  
 - [MIT License](LICENSE)
 
+
+## Repository Structure
 
