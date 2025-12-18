@@ -10,11 +10,7 @@
 ---
 
 ## About the Challenge
-
-**Join me on a 120-day journey to master Machine Learning and AI!**  
-
-This challenge focuses on **building strong foundations, hands-on skills, and professional habits** to excel in ML/AI roles.  
-Guided by a mentor, it is **time-bound and publicly documented** to ensure **accountability, measurable progress, and a clear learning trail**.
+**Embark on my 120-day Machine Learning journey!** This challenge is crafted to **strengthen my foundations in machine learning, AI, and data science**, while building practical, hands-on skills through real projects and exercises. Along the way, I aim to **develop the discipline, problem-solving ability, and professional habits** necessary to succeed in a Machine Learning / AI role.
 
 ---
 
